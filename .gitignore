@@ -1,0 +1,10 @@
+# CRyPTIC raw and intermediate datasets
+data/
+*.csv
+*.csv.gz
+intermediate_merged.csv
+
+# Python environment & cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
